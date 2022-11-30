@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{ECDFE2A7-CF04-4E5C-946A-4F5CA8AAEC00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseTester", "DatabaseTester\DatabaseTester.csproj", "{99624AF2-ED45-4138-B090-4757CB496313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDFE2A7-CF04-4E5C-946A-4F5CA8AAEC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDFE2A7-CF04-4E5C-946A-4F5CA8AAEC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDFE2A7-CF04-4E5C-946A-4F5CA8AAEC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDFE2A7-CF04-4E5C-946A-4F5CA8AAEC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99624AF2-ED45-4138-B090-4757CB496313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99624AF2-ED45-4138-B090-4757CB496313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99624AF2-ED45-4138-B090-4757CB496313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99624AF2-ED45-4138-B090-4757CB496313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
